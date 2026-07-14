@@ -1,4 +1,10 @@
 # Week 11 — Conceptual Architecture Studio
+## Course Assignment Source
+
+- อ่านคำสั่ง: https://github.com/se-rmutl/engse206-lab-v2/blob/main/weeks/week-11-conceptual-architecture/README.md
+- Assignment Contract: https://github.com/se-rmutl/engse206-lab-v2/blob/main/weeks/week-11-conceptual-architecture/assignment-contract.md
+- ส่งงานที่: [`submissions/week-11-submission.md`](../submissions/week-11-submission.md)
+- Expected paths: `design/11-conceptual-architecture.md`, `diagrams/architecture/`, `submissions/week-11-submission.md`
 
 ## เป้าหมาย
 

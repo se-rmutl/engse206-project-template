@@ -9,6 +9,18 @@
 
 ---
 
+## สำคัญ: Repository นี้ไม่ได้เก็บโจทย์ของวิชา
+
+> **อ่านโจทย์จาก Course Repo แล้วทำ/ส่งใน Repository กลุ่มนี้**
+
+- Course/Lab Repo: [https://github.com/se-rmutl/engse206-lab-v2](https://github.com/se-rmutl/engse206-lab-v2)
+- Team Repo Template: [https://github.com/se-rmutl/engse206-project-template](https://github.com/se-rmutl/engse206-project-template)
+- กรอกการเชื่อมต่อที่ [COURSE_REPOSITORY.md](COURSE_REPOSITORY.md)
+- เปิด [คู่มือการส่งงาน 15 สัปดาห์](STUDENT_SUBMISSION_GUIDE.md)
+- อาจารย์เริ่มตรวจจาก [Submission Register](submissions/submission-register.md)
+
+ห้ามคัดลอก Course Repo ทั้งชุดเข้ามาใน repo นี้ และห้ามส่งงานโดยแก้ Course Repo
+
 ## จุดประสงค์ของ Repository นี้
 
 Repository นี้ช่วยให้กลุ่มทำงานอย่างเป็นระบบ เก็บประวัติการปรับปรุงด้วย Git และเชื่อมโยงชิ้นงานทุกชิ้นตาม flow ของรายวิชา ENGSE206 Course Repository

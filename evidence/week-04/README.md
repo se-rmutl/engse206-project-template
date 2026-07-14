@@ -1,12 +1,5 @@
-# Evidence — Week 04: Simulation Evidence
+# Week 04 Evidence
 
-- วันที่: [DD/MM/YYYY]
-- กิจกรรม: [Workshop / Interview / Review / Test]
-- ผู้เข้าร่วม/บทบาท: [ระบุเป็นบทบาท ไม่ใส่ข้อมูลส่วนบุคคลจริง]
-- หลักฐานที่เก็บ: [ลิงก์/ไฟล์]
-- สิ่งที่ค้นพบ: [สรุป]
-- ผลกระทบต่อ artefact: [ไฟล์ที่ต้องแก้]
-
-## Files
-
-- [ ] เพิ่มภาพ/บันทึก/feedback ที่เกี่ยวข้องในโฟลเดอร์นี้
+Required file: `ai-stakeholder-simulation-log.md`.
+Use separate sections/sessions for each role. Do not include personal/confidential data.
+Link evidence entries to `docs/04-evidence-log.md`.

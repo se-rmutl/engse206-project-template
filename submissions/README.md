@@ -1,17 +1,19 @@
-# Submission Support
+# Weekly Submission Workspace
 
-รายวิชานี้ใช้ Git repository เป็นหลักฐานหลักของการทำงาน แต่ผู้สอนอาจกำหนดให้ส่ง URL, tag, PDF export หรือ upload ผ่าน LMS เพิ่มเติม
+อาจารย์เริ่มตรวจจาก [submission-register.md](submission-register.md) แล้วเปิดไฟล์รายสัปดาห์
 
-## ก่อนส่งทุก milestone
+## ขั้นตอนส่งทุกสัปดาห์
 
-1. Commit และ push ไฟล์ต้นฉบับทั้งหมด
-2. ตรวจ weekly checklist
-3. ตั้ง tag เช่น `week-01`, `srs-v1.0`, `final-v1.0` เมื่ออาจารย์กำหนด
-4. Export เป็น PDF เฉพาะเมื่อกำหนด และเก็บใน `final/` หรือ folder ที่ระบุ
-5. บันทึก URL / tag / วันที่ส่งในตารางด้านล่าง
+1. อ่าน Course assignment และบันทึก Assignment ID/URL
+2. ตรวจ exact output paths
+3. commit/push ชิ้นงานและ evidence
+4. กรอก `week-XX-submission.md`
+5. คัดลอก commit hash หลัง push
+6. อัปเดต `submission-register.md`
 
-| Milestone | Date Submitted | Repository Tag / Commit | LMS/URL Evidence | Checked By |
-|---|---|---|---|---|
-| Week 01 | | | | |
-| Week 08 | | | | |
-| Week 16 Final | | | | |
+## หลักการตรวจ
+
+- commit hash ใน submission file คือ snapshot สำหรับตรวจ
+- การแก้หลัง feedback ต้องสร้าง commit ใหม่
+- ไม่ rewrite history หลังส่ง
+- Week 09/17 เป็นสอบรายบุคคล จึงไม่อยู่ใน 15 weekly team submissions

@@ -1,6 +1,8 @@
 # Course Alignment — การเชื่อมโยง Student Repository กับ ENGSE206 Course Repository
 
-Repository นี้ถูกออกแบบให้สอดคล้องโดยตรงกับโฟลเดอร์ `templates/`, `weeks/` และ `docs/artefact-roadmap.md` ของ **ENGSE206 Course Repository**
+Repository นี้ถูกออกแบบให้สอดคล้องโดยตรงกับโฟลเดอร์ `templates/`, `weeks/` และ `docs/artefact-roadmap.md` ของ [**ENGSE206 Course Repository**](https://github.com/se-rmutl/engse206-lab-v2)
+
+> กฎหลัก: **READ from Course Repo → WORK and SUBMIT in Team Repo**
 
 ## หลักการใช้งาน
 

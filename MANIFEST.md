@@ -1,18 +1,20 @@
-# Repository Manifest
-
-This file lists the starter files created for the ENGSE206 group semester project.
+# Repository Manifest — Updated Two-Repository Model
 
 - `.gitattributes`
 - `.github/ISSUE_TEMPLATE/requirement-change.md`
+- `.github/ISSUE_TEMPLATE/weekly-work-item.md`
 - `.github/PULL_REQUEST_TEMPLATE.md`
 - `.gitignore`
 - `CASE_CARD.md`
 - `CHANGELOG.md`
 - `CONTRIBUTING.md`
 - `COURSE_ALIGNMENT.md`
+- `COURSE_REPOSITORY.md`
 - `GITHUB_SETUP.md`
+- `MANIFEST.md`
 - `PROJECT_STATUS.md`
 - `README.md`
+- `STUDENT_SUBMISSION_GUIDE.md`
 - `TEAM.md`
 - `assets/README.md`
 - `assets/images/.gitkeep`
@@ -44,6 +46,7 @@ This file lists the starter files created for the ENGSE206 group semester projec
 - `docs/01-problem-brief-v0.1.md`
 - `docs/02-stakeholder-context-scope.md`
 - `docs/03-elicitation-plan.md`
+- `docs/03-interview-guide.md`
 - `docs/04-evidence-log.md`
 - `docs/05-requirement-backlog.md`
 - `docs/06-requirement-models.md`
@@ -59,8 +62,12 @@ This file lists the starter files created for the ENGSE206 group semester projec
 - `evidence/week-02/README.md`
 - `evidence/week-03/.gitkeep`
 - `evidence/week-03/README.md`
+- `evidence/week-03/ai-interview-rehearsal-notes.md`
+- `evidence/week-03/question-rehearsal-notes.md`
 - `evidence/week-04/.gitkeep`
 - `evidence/week-04/README.md`
+- `evidence/week-04/ai-stakeholder-simulation-log.md`
+- `evidence/week-04/workshop-minutes.md`
 - `evidence/week-05/.gitkeep`
 - `evidence/week-05/README.md`
 - `evidence/week-06/.gitkeep`
@@ -86,21 +93,42 @@ This file lists the starter files created for the ENGSE206 group semester projec
 - `feedback/15-individual-reflection.md`
 - `feedback/README.md`
 - `feedback/peer-feedback.md`
+- `feedback/week-02-peer-feedback.md`
+- `feedback/week-03-peer-feedback.md`
 - `final/README.md`
 - `final/final-project-summary.md`
 - `final/midterm-snapshot/.gitkeep`
 - `project-management/README.md`
 - `project-management/ai-use-log.md`
 - `project-management/backlog.md`
+- `project-management/course-sync-log.md`
 - `project-management/decision-log.md`
 - `project-management/meeting-minutes/.gitkeep`
 - `project-management/meeting-minutes/README.md`
 - `project-management/risk-and-issue-log.md`
 - `project-management/team-worklog.md`
+- `project-management/week-02-week-03-worklog.md`
+- `project-management/weekly-status.md`
 - `scripts/.gitkeep`
 - `scripts/check-project-structure.py`
 - `submissions/.gitkeep`
 - `submissions/README.md`
+- `submissions/submission-register.md`
+- `submissions/week-01-submission.md`
+- `submissions/week-02-submission.md`
+- `submissions/week-03-submission.md`
+- `submissions/week-04-submission.md`
+- `submissions/week-05-submission.md`
+- `submissions/week-06-submission.md`
+- `submissions/week-07-submission.md`
+- `submissions/week-08-submission.md`
+- `submissions/week-10-submission.md`
+- `submissions/week-11-submission.md`
+- `submissions/week-12-submission.md`
+- `submissions/week-13-submission.md`
+- `submissions/week-14-submission.md`
+- `submissions/week-15-submission.md`
+- `submissions/week-16-submission.md`
 - `weekly/README.md`
 - `weekly/week-01-problem-brief.md`
 - `weekly/week-02-stakeholder-context-scope.md`

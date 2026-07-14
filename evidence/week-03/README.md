@@ -1,12 +1,10 @@
-# Evidence — Week 03: Elicitation Plan
+# Week 03 Evidence
 
-- วันที่: [DD/MM/YYYY]
-- กิจกรรม: [Workshop / Interview / Review / Test]
-- ผู้เข้าร่วม/บทบาท: [ระบุเป็นบทบาท ไม่ใส่ข้อมูลส่วนบุคคลจริง]
-- หลักฐานที่เก็บ: [ลิงก์/ไฟล์]
-- สิ่งที่ค้นพบ: [สรุป]
-- ผลกระทบต่อ artefact: [ไฟล์ที่ต้องแก้]
+Store anonymized rehearsal evidence only.
 
-## Files
-
-- [ ] เพิ่มภาพ/บันทึก/feedback ที่เกี่ยวข้องในโฟลเดอร์นี้
+Required file: `ai-interview-rehearsal-notes.md`
+- role/prompt
+- questions asked
+- summarized response; no PII
+- question problems and revisions
+- simulation limitations and verification plan
