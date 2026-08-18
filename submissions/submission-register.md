@@ -9,6 +9,7 @@
 | 03 | | [Week 03](week-03-submission.md) | | | Not submitted | | |
 | 04 | | [Week 04](week-04-submission.md) | | | Not submitted | | |
 | 05 | | [Week 05](week-05-submission.md) | | | Not submitted | | |
+| 05b | `W05-RBR` / [Baseline Review Studio](https://github.com/se-rmutl/engse206-lab-v2/blob/main/weeks/week-05b-baseline-review-studio/README.md) | [Baseline Review](baseline-review-submission.md) | | | Not submitted | | |
 | 06 | | [Week 06](week-06-submission.md) | | | Not submitted | | |
 | 07 | | [Week 07](week-07-submission.md) | | | Not submitted | | |
 | 08 | | [Week 08](week-08-submission.md) | | | Not submitted | | |
@@ -21,3 +22,6 @@
 | 16 | | [Week 16](week-16-submission.md) | | | Not submitted | | |
 
 สถานะที่ใช้: `Not submitted`, `Submitted`, `Needs revision`, `Accepted`.
+
+> **หมายเหตุ Baseline Review (05b):** ให้ตรวจที่ tag `baseline-v1.0` — ลิงก์ทุกอันในไฟล์ส่งงานชี้ที่ tag นี้ทั้งหมด
+> ช่อง Commit hash ให้กรอก commit ที่ถูก tag และช่อง Submission file/Status ใช้ร่วมกับคอลัมน์ "Requirement Baseline Review & Readiness Gate" ในชีตรวมของรายวิชา
