@@ -8,7 +8,7 @@
 | รายการ | รายละเอียด |
 |---|---|
 | Case No. | [เช่น 01] |
-| Course Case URL | [วาง URL จาก engse206-lab-v2] |
+| Course Case URL | [วาง URL จาก engse206-lab] |
 | Course Case Version/Commit | [กรอก] |
 | ชื่อกรณีศึกษา | [เช่น ระบบจองพื้นที่ทำงานกลุ่มและอุปกรณ์การเรียนรู้] |
 | วันที่ได้รับมอบหมาย | [DD/MM/YYYY] |

@@ -1,42 +1,46 @@
 # 08 — Validation, Traceability and Change Management
 
-> **Week 8 deliverable**
+> ไฟล์นี้ใช้สองช่วง: **ส่วน A** เติมตอน Baseline Review (W05b) · **ส่วน B** เติมใน Week 8 หลังมี SRS v1 — อย่าเขียนทับส่วน A
 
-## 1. Validation Plan
+## ส่วน A — Baseline Traceability (W05b)
+
+| Problem / Pain point | Evidence (E-ID) | Need (N-ID) | FR / NFR | Priority |
+|---|---|---|---|---|
+| PP-01 | E-01 | N-01 | FR-01 | Must |
+
+- Baseline: tag `baseline-v1.0` · วันที่: [กรอก]
+
+## ส่วน B — SRS Review และ Traceability (W08)
+
+### B1. Validation Plan
 
 | Validation Activity | Artefact | Participants | Criteria | Evidence |
 |---|---|---|---|---|
-| Peer review / stakeholder simulation / checklist | SRS v1 | [roles] | completeness, consistency, feasibility, testability | `../evidence/week-08/` |
+| Peer review / stakeholder simulation / checklist | `docs/07-srs-v1.md` | [roles] | completeness, consistency, feasibility, testability | `../evidence/week-08/` |
 
-## 2. Requirements Quality Checklist
+### B2. Review Findings (ตรวจ SRS v1)
 
-| Check | Result | Evidence / Note |
-|---|---|---|
-| Requirement มี ID และไม่ซ้ำกัน | Pass / Revise | |
-| ใช้ถ้อยคำชัดเจน ไม่กำกวม | Pass / Revise | |
-| ตรวจรับหรือวัดผลได้ | Pass / Revise | |
-| มี source/rationale | Pass / Revise | |
-| Scope เหมาะสม | Pass / Revise | |
+| Finding | ตำแหน่งใน SRS | ประเภท (แก้ได้ทันที / Open Issue / Change Request) | การจัดการ |
+|---|---|---|---|
+| F-01 | | | |
 
-## 3. Traceability Matrix
+### B3. Traceability Matrix — เดินได้ทั้งไปและกลับ
 
-| Stakeholder Need | FR / NFR | User Story / Use Case | Design Element | Verification / Review |
-|---|---|---|---|---|
-| UN-01 | FR-01 | US-01 / UC-01 | [component/screen/diagram] | [test/review] |
+| Evidence (E-ID) | Need | FR / NFR / BR | US / UC / AC | หัวข้อ SRS | Verification |
+|---|---|---|---|---|---|
+| E-01 | N-01 | FR-01 | US-01 / UC-01 / AC-01 | 3.1 | [test/review] |
 
-## 4. Change Request Log
+### B4. Change Request
 
-| CR-ID | Date | Requested Change | Reason / Evidence | Impacted Artefacts | Decision | Owner |
+| CR-ID | Date | Requested Change | Reason / Evidence | Impact (BR/FR/NFR · UC/AC · SRS · design/test) | Decision (Pending / Accepted / Rejected) | Decision owner |
 |---|---|---|---|---|---|---|
-| CR-01 | | [กรอก] | [กรอก] | FR-xx, SRS, design | Accepted/Rejected/Deferred | [ชื่อ] |
+| CR-01 | | | | | Pending | |
 
-## 5. Baseline Decision
+### B5. Baseline Decision
 
-- Baseline name: `srs-v1.0`
-- Date: [กรอก]
-- Approved/Reviewed by: [กรอก]
-- Remaining open issues: [กรอก]
+- สถานะ SRS: Draft / Needs Revision / Baseline Candidate (ไม่เขียนว่า Approved จนกว่าผู้มีอำนาจอนุมัติ)
+- Remaining open issues: (เติมใน W08)
 
-## 6. Follow-up Backlog
+### B6. Follow-up Backlog
 
 - [ ] [งานที่ต้องปรับก่อนเริ่ม design]

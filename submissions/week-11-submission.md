@@ -1,57 +1,48 @@
 # Week 11 Submission — Conceptual Architecture
 
-## 1. Assignment Source
-
 | Field | Value |
 |---|---|
-| Assignment ID | `W11-v1.0` |
-| Course assignment URL | https://github.com/se-rmutl/engse206-lab-v2/blob/main/weeks/week-11-conceptual-architecture/assignment-contract.md |
-| Course version/commit read | [กรอก] |
-| Date checked | [YYYY-MM-DD] |
-| Case ID / Case URL | [กรอก] |
+| Assignment ID / Version | W11-v1.1 |
+| Assignment URL | |
+| Case ID / URL | |
+| Team | |
+| Submission commit hash | |
 
-## 2. Artefacts Submitted
+## Artefact links
 
-ผลลัพธ์หลัก: **Architecture View + Rationale**
-
-Expected paths: `design/11-conceptual-architecture.md`, `diagrams/architecture/`, `submissions/week-11-submission.md`
-
-| Artefact | Repository path / URL | Owner | Status |
-|---|---|---|---|
-| | | | |
-
-## 3. Evidence and Quality Check
-
-- [ ] มี source file ที่แก้ไขได้
-- [ ] diagram มี `.drawio` และ export `.png`/`.pdf` เมื่อเกี่ยวข้อง
-- [ ] evidence อ้างอิงกลับไปยัง artefact ได้
-- [ ] อัปเดต worklog และ AI use log แล้ว
-- [ ] peer/instructor feedback ถูกบันทึกแล้ว
-- [ ] ไม่มีข้อมูลส่วนบุคคล/secret
-
-## 4. Team Contribution
-
-| Member | Role / Work completed | Evidence (commit/file) |
+| Artefact | Path | สถานะ |
 |---|---|---|
-| | | |
+| Conceptual Architecture (Word) | `design/11-conceptual-architecture-v0.1.docx` | Design Draft |
+| Context diagram | `diagrams/architecture/11-context.drawio` + `.png` | |
+| Container diagram | `diagrams/architecture/11-container.drawio` + `.png` | |
+| Design Spine | `design/00-design-spine.md` | W11 column filled |
+| สรุปแบบ .md (ไม่บังคับ) | `design/11-conceptual-architecture.md` | |
+| Evidence: ภาพ frame Miro ก่อน/หลังแก้ | `evidence/week-11/` | |
+| Worklog | `project-management/team-worklog.md` | |
+| AI use log (ถ้าใช้) | `project-management/ai-use-log.md` | |
 
-## 5. Tabletop / Review Summary
+## Done checklist
 
-- สิ่งที่นำเสนอ:
-- Feedback ที่ได้รับ:
-- สิ่งที่แก้ก่อนส่ง:
+- [ ] Context diagram: ระบบ 1 กล่อง + actor ครบ + ระบบภายนอกพร้อมป้าย Core / Extension / TBD
+- [ ] Container diagram: ทุก container มีชื่อ + [ชนิด · เทคโนโลยี] + หน้าที่; ลูกศรทุกเส้นบอกว่าส่งอะไร
+- [ ] ตาราง container บอกสภาพแวดล้อม (รันที่ไหน ใครควบคุม) และข้อมูลที่เก็บ
+- [ ] NFR ทุกข้อชี้ได้ว่ากระทบ container ไหน หรือเป็น TBD; decision card ≤ 3 ใบอ้าง NFR/driver
+- [ ] ทุกขั้น Build now/Overview ใน Spine เดินผ่าน container ได้ และกติกา D1–D3 อยู่ฝั่ง server
+- [ ] ใช้ stack อ้างอิง หรือมี decision card เมื่อเปลี่ยน; ไม่มีเทคโนโลยีเกินจำเป็น; ทุกภาพมี .drawio + PNG
 
-## 6. Final Submission Snapshot
+## ข้อที่คู่บน Miro ถาม และทีมตอบ
 
-| Field | Value |
+| คำถาม / sticky | ทีมแก้หรือตอบอย่างไร |
 |---|---|
-| Commit message | `submit(w11): conceptual architecture` |
-| Commit hash | [กรอกหลัง push] |
-| Submitted at | [YYYY-MM-DD HH:MM] |
-| Known limitations / open questions | [กรอก] |
+| driver ที่ห้ามพลาดของทีม อยู่ container ไหน | |
+| | |
 
-## 7. Revision after Feedback
+## สิ่งที่ยังไม่แน่ใจ / ต้องการ feedback (1–3 ข้อ)
 
-| Date | Feedback | Change made | New commit |
-|---|---|---|---|
-| | | | |
+1.
+
+## การมีส่วนร่วม
+
+| สมาชิก | ทำส่วนใด (ระบุหัวข้อ/ภาพ) |
+|---|---|
+| | |
